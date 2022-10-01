@@ -1,0 +1,70 @@
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\bin\Debug\Uas.exe.config
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.Resources.resources
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.vbproj.GenerateResource.Cache
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\bin\Debug\Uas.exe
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\bin\Debug\Uas.pdb
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\bin\Debug\Uas.xml
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.exe
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.xml
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.pdb
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.penerima.resources
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.Beranda.resources
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.Login.resources
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.pembagian.resources
+C:\Users\DITA PUTRA\documents\visual studio 2010\Projects\Uas\Uas\obj\x86\Debug\Uas.Pupuk.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\bin\Debug\Uas.exe.config
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.exe
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.xml
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.pdb
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\bin\Debug\Uas.exe
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\bin\Debug\Uas.pdb
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\bin\Debug\Uas.xml
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.Beranda.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.pembagian.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.Pupuk.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.Login.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.Resources.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.penerima.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.vbproj.GenerateResource.Cache
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.daftarpupuk.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.daftarpenerima.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\Uas\obj\x86\Debug\Uas.pupukkeluar.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\bin\Debug\Uas.exe.config
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.exe
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.xml
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.pdb
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\bin\Debug\Uas.exe
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\bin\Debug\Uas.pdb
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\bin\Debug\Uas.xml
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.Beranda.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.daftarpenerima.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.daftarpupuk.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.pembagian.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.Pupuk.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.Login.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.Resources.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.penerima.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.pupukkeluar.resources
+C:\Users\wahyu\Documents\SEMESTER 4\PEMROGRAMAN VISUAL\UAS\UAS REVISI\UAS\UAS FINAL\Uas\obj\x86\Debug\Uas.vbproj.GenerateResource.Cache
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\bin\Debug\Uas.exe.config
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.exe
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.xml
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.pdb
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\bin\Debug\Uas.exe
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\bin\Debug\Uas.pdb
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\bin\Debug\Uas.xml
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.vbprojResolveAssemblyReference.cache
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.Beranda.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.daftarpenerima.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.daftarpupuk.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.pembagian.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.Pupuk.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.Resources.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.penerima.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.pupukkeluar.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.vbproj.GenerateResource.Cache
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.formLap_keluar.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.formLap_penerima.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.formLap_pupuk.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.Login.resources
+F:\Kuliah\Materi S4\Pemrograman Visual\Projek Uas\UAS FINAL\Uas\obj\x86\Debug\Uas.Form1.resources
